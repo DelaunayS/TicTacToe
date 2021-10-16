@@ -1,0 +1,30 @@
+
+.App{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width:100vw;
+    height:100vh;     
+    display: grid;    
+}
+
+.AppContainer{
+    margin:auto;
+    width:80%;
+    height:60%;
+    border: solid black 5px;
+    border-radius: 20px;    
+}
+
+table {
+    width: 100%;
+    margin:auto;     
+  }
+    
+  td {         
+    width: 33.333%;
+    border: 2px solid black;
+    font-size:5vw;     
+  }     
+  
+  .borderRound{
+    border-radius: 20px;
+  }
